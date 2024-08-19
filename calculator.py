@@ -1,7 +1,7 @@
 import sys
 
 def print_contributors():
-    contributors = ["Sebastien"]
+    contributors = ["Tungalag", "Sebastien"]
     print("This is a Yale SOM class of 2025 project maintained by:")
     for cont in contributors:
         print("   " + cont)
